@@ -1,8 +1,6 @@
-# Stanford Datathon
+# Stanford Datathon - Team244
 
-## Team244
-
-## Team member: Yunting Yin, Yu Luo, Wenqi Ni
+Team member: Yunting Yin, Yu Luo, Wenqi Ni
 
 ## Project detail in juypter notebook
 
